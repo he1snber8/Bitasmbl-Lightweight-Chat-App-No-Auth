@@ -1,0 +1,1 @@
+# frontend/src/App.jsx\nimport React from 'react';\nimport ChatRoom from './components/ChatRoom';\nexport default function App(){ return <ChatRoom />; }
