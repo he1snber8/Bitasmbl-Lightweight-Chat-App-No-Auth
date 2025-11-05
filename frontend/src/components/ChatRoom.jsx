@@ -1,0 +1,1 @@
+# frontend/src/components/ChatRoom.jsx\nimport React, { useState, useEffect } from 'react';\nimport socket from '../socket';\n// TODO: join room and handle incoming/outgoing messages
