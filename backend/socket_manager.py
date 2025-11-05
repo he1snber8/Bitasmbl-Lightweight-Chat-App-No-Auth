@@ -1,0 +1,1 @@
+# backend/socket_manager.py\nimport socketio\nsio = socketio.AsyncServer(async_mode='asgi')\n# @sio.event\n# async def connect(sid, environ): pass
