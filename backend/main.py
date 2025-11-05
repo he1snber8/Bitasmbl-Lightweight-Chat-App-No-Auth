@@ -1,0 +1,1 @@
+# backend/main.py\nfrom fastapi import FastAPI\napp = FastAPI()\n# Later mount Socket.IO server here
