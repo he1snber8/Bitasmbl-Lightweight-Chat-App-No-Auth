@@ -1,0 +1,1 @@
+# frontend/src/socket.js\nimport { io } from 'socket.io-client';\nconst socket = io('http://localhost:8000/ws');\nexport default socket;
